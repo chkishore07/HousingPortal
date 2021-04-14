@@ -1,36 +1,47 @@
 [
   {
     "Id": 1,
+    "SellRent": 1,
     "Name" : "H1",
     "Type": "House",
-    "Price": 7000
+    "Price": 7000,
+    "Image": "prop-1"
   },
   {
     "Id": 2,
+    "SellRent": 2,
     "Name" : "H2",
     "Type": "Flat",
-    "Price": 8000
+    "Price": 8000,
+    "Image": "prop-2"
   },
   {
     "Id": 3,
+    "SellRent": 1,
     "Name" : "H3",
     "Type": "Villa",
-    "Price": 9000
+    "Price": 9000,
+    "Image": "prop-3"
   },
   {
     "Id": 4,
+    "SellRent": 2,
     "Name" : "H4",
     "Type": "Studio",
-    "Price": 10000
+    "Price": 10000,
+    "Image": "prop-4"
   },
   {
     "Id": 5,
+    "SellRent": 1,
     "Name" : "H5",
     "Type": "Independent",
-    "Price": 11000
+    "Price": 11000,
+    "Image": "prop-5"
   },
   {
     "Id": 6,
+    "SellRent": 2,
     "Name" : "H6",
     "Type": "Shared",
     "Price": 12000
